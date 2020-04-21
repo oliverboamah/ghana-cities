@@ -5,6 +5,7 @@ Regions and their corresponding cities in Ghana
 * Single json file containing key-value pairs of regions and their respective cities in Ghana
 * Regions & Cities up to date
 * Cross Platform since the data is stored in json
+* Regions & Cities are sorted in alphabetical order
 ```
 {
   "Ahafo": ["Goaso", "Hwidiem", "Kenyasi", "Kukuom"],

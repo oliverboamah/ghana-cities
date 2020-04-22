@@ -117,26 +117,7 @@
     "Saltpond",
     "Winneba"
   ],
-  "Eastern": [
-    "Aburi",
-    "Akim Oda",
-    "Akim Swedru",
-    "Akosombo",
-    "Akropong",
-    "Akwatia",
-    "Asamankese",
-    "Begoro",
-    "Brekusu",
-    "Kade",
-    "Kibi",
-    "Kitase",
-    "Koforidua",
-    "Mpraeso",
-    "Nkawkaw",
-    "Nsawam",
-    "Somanya",
-    "Suhum"
-  ],
+  "Eastern": ["Abetifi", "Aburi", "Adeiso", "Akim Oda", "Akim Swedru", "Akosombo", "Akropong", "Akwatia", "Asamankese", "Asesewa", "Atimpoku", "Begoro", "Brekusu", "Coaltar", "Donkorkrom", "Kade", "Kibi", "Kitase", "Koforidua", "Kwabeng", "Mpraeso", "New Abirem", "Nkawkaw", "Nsawam", "Odumase Krobo", "Ofoase", "Somanya", "Suhum", "Tease"],
   "Greater Accra": [
     "Abelemkpe",
     "Ablekuma",

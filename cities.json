@@ -215,14 +215,17 @@
     "Chereponi", 
     "Gambaga", 
     "Nalerigu",
+    "Napkanduru",
     "Nasia", 
     "Walewale"
   ],
   "Northern": [
     "Bimbila", 
-    "Gushiegu", 
+    "Gushiegu",
+    "Kariga",
     "Kpandae",
-    "Pong-Tamale", 
+    "Pong-Tamale",
+    "Saboba", 
     "Salaga", 
     "Tamale", 
     "Yendi"
@@ -241,7 +244,8 @@
     "Damango", 
     "Salaga", 
     "Sawla", 
-    "Tolon"
+    "Tolon",
+    "Yaipe"
   ],
   "Upper East": [
     "Balungu", 

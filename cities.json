@@ -249,7 +249,19 @@
     "Westhills"
   ],
   "Nort East": ["Chereponi", "Gambaga", "Nalerigu", "Walewale"],
-  "Nothern": ["Bimbila", "Gushiegu", "Kpandae", "Salaga", "Tamale", "Yendi"],
+  "Northern": [
+    "Bimbila",
+    "Gushiegu",
+    "Kpandae",  
+    "Tatale",
+    "Tamale", 
+    "Yendi", 
+    "Wulensi",
+    "Saboba",
+    "Salaga"
+    
+
+  ],
   "Oti": [
     "Chinderi",
     "Jasikan",
@@ -296,6 +308,7 @@
     "Axim",
     "Beahu",
     "Bogoso",
+    "Butumagyabu",
     "Busua",
     "Daboase",
     "Dadwen",

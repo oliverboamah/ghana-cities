@@ -35,5 +35,5 @@ Regions and their corresponding cities in Ghana
 ```
 
 ## Installation 
-* Clone the project (https://github.com/codingoliver/ghana-cities.git)
+* Clone the project (https://github.com/oliverboamah/ghana-cities.git)
 * Find the ```cities.json``` file, and copy it to your project folder

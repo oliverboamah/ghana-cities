@@ -1,5 +1,5 @@
 {
-  "Ahafo": ["Goaso", "Hwidiem", "Kenyasi", "Kukuom"],
+  "Ahafo": ["Bechem", "Duayaw Nkwantah","Goaso", "Hwidiem", "Kenyasi", "Kukuom"],
   "Ashanti": [
     "Abrepo Junction",
     "Abuakwa",
@@ -70,13 +70,25 @@
     "TUC"
   ],
   "Bono": [
+    "Amomaso",
     "Banda Ahenkro",
-    "Brekum",
+    "Berekum",
+    "Benkasa",
+    "Chiraa",
     "Dormaa Ahenkro",
+    "Dormaa Akwamu",
+    "Drobo",
+    "Fiapre",
+    "Jinijini",
     "New Drobo",
+    "Nkrankwanta",
     "Nsawkaw",
+    "Nsuatre",
+    "Odumase",
     "Sampa",
-    "Sunyani"
+    "Seikwa",
+    "Sunyani",
+    "Wamfie"
   ],
   "Bono East": [
     "Atebubu",
@@ -87,6 +99,7 @@
     "Nkoranza",
     "Prang",
     "Techiman",
+    "Tuobodom",
     "Wenchi",
     "Yeji"
   ],

@@ -262,7 +262,7 @@
     "Weija",
     "Westhills"
   ],
-  "Nort East": ["Chereponi", "Gambaga", "Nalerigu", "Walewale"],
+  "North East": ["Chereponi", "Gambaga", "Nalerigu", "Walewale"],
   "Northern": [
     "Bimbila",
     "Gushiegu",
@@ -272,11 +272,7 @@
     "Tamale", 
     "Tatale",
     "Wulensi",
-    "Yendi"
-    
-    
-    
-
+    "Yendi",
   ],
   "Oti": [
     "Chinderi",
